@@ -33,10 +33,17 @@ Get Involved
 
 Developers and researchers are invited to open a GitHub Issue to introduce their ideas, propose technical contributions or discuss potential collaboration.
 
+We particularly welcome contributions involving trustworthy data sources, multilingual AI, procurement analysis and responsible automation.
+
+Project Structure
+
+This public repository is dedicated to open collaboration, community proposals and publicly shareable project resources.
+
+Private commercial information, confidential partner data and internal development systems are maintained separately.
+
 Founder
 
 Zakaria Hafyani
 Milan, Italy
 
-HAFYANI — Connecting Intelligence, Industry and Opportunity.# HAFYANI-GLOBAL--COLLABORATION
-An open global initiative connecting AI developers, manufacturers, public procurement opportunities, and international trade.
+HAFYANI — Connecting Intelligence, Industry and Opportunity.
